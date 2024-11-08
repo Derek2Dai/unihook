@@ -3,5 +3,7 @@
     "deno.unstable": true,
     "cSpell.words": [
         "IFORGOTTOSETWEBHOOKSECRET"
-    ]
+    ],
+    "github.branchProtection": true,
+    "github.copilot.chat.experimental.testGeneration.instructions": []
 }
